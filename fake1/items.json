@@ -1,13 +1,20 @@
-[{
-    "id": 1,
-    "email": "test@fake.com"
-}, {
-    "id": 2,
-    "email": "test@fake.com"
-}, {
-    "id": 3,
-    "email": "test@fake.com"
-}, {
-    "id": 4,
-    "email": "test@fake.com"
-}]
+{
+    "data": [
+        {
+            "id": 1,
+            "email": "test@fake.com"
+        },
+        {
+            "id": 2,
+            "email": "test@fake.com"
+        },
+        {
+            "id": 3,
+            "email": "test@fake.com"
+        },
+        {
+            "id": 4,
+            "email": "test@fake.com"
+        }
+    ]
+}
